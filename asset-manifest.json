@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Caja-regalo-2/static/css/main.18520c46.css",
+    "main.css": "/Caja-regalo-2/static/css/main.25ff7af2.css",
     "main.js": "/Caja-regalo-2/static/js/main.e2ebf1d0.js",
     "static/media/Paisaje.jpg": "/Caja-regalo-2/static/media/Paisaje.080e6aeb73ede9068e92.jpg",
     "static/media/FotoCama1.jpg": "/Caja-regalo-2/static/media/FotoCama1.92511d61cc99bcbe1c1c.jpg",
@@ -9,11 +9,11 @@
     "static/media/Portada.jpg": "/Caja-regalo-2/static/media/Portada.fd31afc86966354e8340.jpg",
     "static/media/caja-regalo.jpg": "/Caja-regalo-2/static/media/caja-regalo.d4f4dddf7b800fd310fa.jpg",
     "index.html": "/Caja-regalo-2/index.html",
-    "main.18520c46.css.map": "/Caja-regalo-2/static/css/main.18520c46.css.map",
+    "main.25ff7af2.css.map": "/Caja-regalo-2/static/css/main.25ff7af2.css.map",
     "main.e2ebf1d0.js.map": "/Caja-regalo-2/static/js/main.e2ebf1d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.18520c46.css",
+    "static/css/main.25ff7af2.css",
     "static/js/main.e2ebf1d0.js"
   ]
 }
