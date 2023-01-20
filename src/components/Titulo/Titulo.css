@@ -1,0 +1,22 @@
+header{
+    height: 300px;
+    padding-top:2.5rem;
+    overflow: hidden;
+}
+
+.header__container{
+    text-align: center;
+    height: 100%;
+    position: relative;
+}
+
+/* === SMALL DEVICES === */
+@media screen and (max-width: 700px) {
+    header{
+        height: 300px;
+    }
+
+    .header__container h1{
+        font-size: 3.5rem;
+    }
+}
